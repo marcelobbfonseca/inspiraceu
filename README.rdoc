@@ -1,4 +1,4 @@
-== README
+[![Depfu](https://badges.depfu.com/badges/1fd04de264285b193fd0ac57a2a5cc46/status.svg)](https://depfu.com) [![Depfu](https://badges.depfu.com/badges/1fd04de264285b193fd0ac57a2a5cc46/count.svg)](https://depfu.com/github/marcelobbfonseca/inspiraceu?project_id=7780)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
